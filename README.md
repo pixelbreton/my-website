@@ -4,5 +4,9 @@ Now editing on update-readme branch : D
 
 Updates made on master on GitHub before rebase.
 
+#My changes
 
-This file is juste a conflict with whatever is on the server
+Problematic change from GitHub
+
+
+LOL
