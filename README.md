@@ -2,4 +2,4 @@
 
 Now editing on update-readme branch : D
 
-Updated locally
+Updates made on master on GitHub before rebase.
